@@ -1,0 +1,24 @@
+
+
+{
+
+
+  "ecommorce_Data": [
+    {
+
+      "name_field": "NagaSankar",
+      "email" : "sankar1234@gmail.com",
+      "mobile": "Nokia Edge",
+      "expected_country": "b",
+      "actual_country": "belgium"
+    },
+     {
+
+      "name_field": "shyam",
+      "email" : "shyam234@gmail.com",
+      "mobile": "Blackberry",
+      "expected_country": "in",
+      "actual_country": "india"
+    }
+  ]
+}
