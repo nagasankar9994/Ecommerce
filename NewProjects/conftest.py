@@ -21,7 +21,7 @@ def browserInvoke(request):
     elif browser_name =='edge':
         driver=webdriver.Edge()
     driver.implicitly_wait(5)
-    driver.get("https://rahulshettyacademy.com/seleniumPractise/#/")#https://rahulshettyacademy.com/angularpractice/
+    driver.get("https://rahulshettyacademy.com/angularpractice/")
     driver.maximize_window()
     yield driver
     time.sleep(2)
